@@ -6,6 +6,9 @@ A simple Alfred workflow to quickly navigate to EnTur webpage for realtime depar
 
 - [Version 1](https://github.com/maxschau/alfred-entur/raw/main/Search%20EnTur.alfredworkflow)
 
+## ToDo
+- [ ] Add functionality to search for trip from one location to another
+- [ ] Find stations close by the user's current location
 
 ## How to use
 
@@ -19,6 +22,4 @@ Then follow with whatever bus or metro stations you want to see:
 
 ![Searching for Stortinget](/screenshots/3.png)
 
-## ToDO
-- [ ] Add functionality to search for trip from one location to another
-- [ ] Find stations close by the user's current location
+
