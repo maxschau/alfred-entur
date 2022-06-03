@@ -18,3 +18,7 @@ Then follow with whatever bus or metro stations you want to see:
 ![Searching for Oppsal](/screenshots/2.png)
 
 ![Searching for Stortinget](/screenshots/3.png)
+
+## ToDO
+- [ ] Add functionality to search for trip from one location to another
+- [ ] Find stations close by the user's current location
