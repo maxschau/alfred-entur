@@ -4,4 +4,4 @@ A simple Alfred workflow to quickly navigate to EnTur webpage for realtime depar
 
 ## Download 
 
-- sdfdsf
+- [Version 1](https://github.com/maxschau/alfred-entur/raw/main/Search%20EnTur.alfredworkflow)
